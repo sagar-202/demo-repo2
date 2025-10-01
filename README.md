@@ -4,3 +4,7 @@ Some text
 
 ## local devlopment
 1. open index.html in your browser.1
+
+
+## understanding git conflicts
+ when git conflictts occur
